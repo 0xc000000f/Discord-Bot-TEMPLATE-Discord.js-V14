@@ -1,0 +1,13 @@
+{
+  "name": "Bot-semi-avanzado",
+  "version": "1.0.0",
+  "description": "Un bot semi-avanzado en discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^10.0.0"
+  }
+}
